@@ -10,7 +10,7 @@ import natours from '../assets/covid19.png';
 
 const skillIconClass = 'w-6 h-6 md:w-8 md:h-8'
 
-export const RESUME_LINK = 'https://drive.google.com/file/d/1RHPMdFpagDj9lirgqacSsgsCRTrYQO0Y/view?usp=sharing'
+export const RESUME_LINK = 'https://drive.google.com/file/d/1VZlpDb1AezUMgRrR5WZ23MPkmhH1bUb1/view?usp=sharing'
 
 export const SKILLS = [
   {
